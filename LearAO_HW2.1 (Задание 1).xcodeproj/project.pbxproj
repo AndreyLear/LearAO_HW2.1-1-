@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		9529A70624EE433900A39434 /* LearAO_HW2.1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LearAO_HW2.1.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9529A70624EE433900A39434 /* LearAO_HW2.1 (Задание 1) (Задание 1).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "LearAO_HW2.1 (Задание 1) (Задание 1).app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9529A70924EE433900A39434 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9529A70B24EE433900A39434 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		9529A70D24EE433900A39434 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		9529A70724EE433900A39434 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				9529A70624EE433900A39434 /* LearAO_HW2.1.app */,
+				9529A70624EE433900A39434 /* LearAO_HW2.1 (Задание 1) (Задание 1).app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		9529A70524EE433900A39434 /* LearAO_HW2.1 */ = {
+		9529A70524EE433900A39434 /* LearAO_HW2.1 (Задание 1) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9529A71A24EE433900A39434 /* Build configuration list for PBXNativeTarget "LearAO_HW2.1" */;
+			buildConfigurationList = 9529A71A24EE433900A39434 /* Build configuration list for PBXNativeTarget "LearAO_HW2.1 (Задание 1)" */;
 			buildPhases = (
 				9529A70224EE433900A39434 /* Sources */,
 				9529A70324EE433900A39434 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = LearAO_HW2.1;
+			name = "LearAO_HW2.1 (Задание 1)";
 			productName = LearAO_HW2.1;
-			productReference = 9529A70624EE433900A39434 /* LearAO_HW2.1.app */;
+			productReference = 9529A70624EE433900A39434 /* LearAO_HW2.1 (Задание 1) (Задание 1).app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 9529A70124EE433900A39434 /* Build configuration list for PBXProject "LearAO_HW2.1" */;
+			buildConfigurationList = 9529A70124EE433900A39434 /* Build configuration list for PBXProject "LearAO_HW2.1 (Задание 1)" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				9529A70524EE433900A39434 /* LearAO_HW2.1 */,
+				9529A70524EE433900A39434 /* LearAO_HW2.1 (Задание 1) */,
 			);
 		};
 /* End PBXProject section */
@@ -292,9 +292,9 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.andreylear.LearAO-HW2-1";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "LearAO_HW2.1 (Задание 1) (Задание 1)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -310,16 +310,16 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.andreylear.LearAO-HW2-1";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "LearAO_HW2.1 (Задание 1) (Задание 1)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		9529A70124EE433900A39434 /* Build configuration list for PBXProject "LearAO_HW2.1" */ = {
+		9529A70124EE433900A39434 /* Build configuration list for PBXProject "LearAO_HW2.1 (Задание 1)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9529A71824EE433900A39434 /* Debug */,
@@ -328,7 +328,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9529A71A24EE433900A39434 /* Build configuration list for PBXNativeTarget "LearAO_HW2.1" */ = {
+		9529A71A24EE433900A39434 /* Build configuration list for PBXNativeTarget "LearAO_HW2.1 (Задание 1)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9529A71B24EE433900A39434 /* Debug */,
